@@ -2,8 +2,10 @@
 In this project, I am going to create, update and delete an AWS Cloudformation stack. This was part of my AWS re/Start training. I have also uploaded the final YAML template I used for the stack.
 
 ## Create the stack
-First I am going to create a YAML template containing all the parameters, resources and outputs I want for my Cloudformation stack. 
-![Screenshot (31)](https://github.com/DespoinaTikt/Working_with_AWS_Cloudformation/assets/166096217/621d156a-859d-449b-9fea-9cf7d01bffa2) ![Screenshot (32)](https://github.com/DespoinaTikt/Working_with_AWS_Cloudformation/assets/166096217/f6eafd60-c883-4675-a160-700288b75634) ![Screenshot (33)](https://github.com/DespoinaTikt/Working_with_AWS_Cloudformation/assets/166096217/ced9ca70-b05d-4082-b1a3-0f88d66260e6)
+First I am going to create a YAML template containing all the parameters, resources and outputs I want for my Cloudformation stack.
+![Screenshot (31)](https://github.com/DespoinaTikt/Working_with_AWS_Cloudformation/assets/166096217/621d156a-859d-449b-9fea-9cf7d01bffa2) 
+![Screenshot (32)](https://github.com/DespoinaTikt/Working_with_AWS_Cloudformation/assets/166096217/f6eafd60-c883-4675-a160-700288b75634) 
+![Screenshot (33)](https://github.com/DespoinaTikt/Working_with_AWS_Cloudformation/assets/166096217/ced9ca70-b05d-4082-b1a3-0f88d66260e6)
 
 After that, I log in the AWS management console and go to Cloudformation. 
 ![Screenshot (35)](https://github.com/DespoinaTikt/Working_with_AWS_Cloudformation/assets/166096217/95075ace-9aff-4878-9b38-eedcfb89a034)
