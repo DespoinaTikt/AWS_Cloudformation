@@ -1,4 +1,4 @@
-# Working_with_AWS_Cloudformation
+# AWS_Cloudformation
 In this project, I am going to create, update and delete an AWS Cloudformation stack. This was part of my AWS re/Start training. I have also uploaded the final YAML template I used for the stack.
 
 ## Create the stack
